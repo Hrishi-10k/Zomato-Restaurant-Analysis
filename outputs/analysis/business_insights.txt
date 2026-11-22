@@ -1,0 +1,21 @@
+
+ZOMATO RESTAURANT ANALYSIS - BUSINESS INSIGHTS
+
+1. Total Restaurants: 9551
+
+2. Average Restaurant Rating: 3.44
+
+3. Total Cities: 141
+
+4. Online Delivery Percentage:
+   25.66%
+
+5. Most Popular Cuisine:
+   North Indian
+
+6. Average Cost for Two:
+   1199.21 (mixed currency units)
+
+7. City with Highest Restaurant Count:
+   New Delhi
+
